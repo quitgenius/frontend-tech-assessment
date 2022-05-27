@@ -1,0 +1,15 @@
+{
+    "name": "typescript-tech-test",
+    "version": "1.0.0",
+    "description": "An assessment in web fundamentals",
+    "main": "main.js",
+    "dependencies": {
+        "typescript": "^4.6.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "watch": "tsc --watch"
+    },
+    "author": "",
+    "license": "ISC"
+}
